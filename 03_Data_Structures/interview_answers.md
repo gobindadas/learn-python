@@ -276,7 +276,7 @@ items_list = list(my_dict.items())    # [('a', 1), ('b', 2)]
 - ✅ Counting/grouping items
 
 
-Choose based on your needs:
+**Choose based on your needs:**
 
 - List: "I need an ordered collection that I can modify"
 - Tuple: "I need an ordered collection that won't change"
