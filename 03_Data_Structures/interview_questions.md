@@ -2,8 +2,16 @@
 
 ## Level: Normal (1-5)
 
-### Question 1: List vs Tuple
-What are the key differences between lists and tuples? When would you choose one over the other?
+### Question 1: List, Tuple, Set, and Dict - Complete Comparison
+Explain the key differences between Python's four main built-in data structures: List, Tuple, Set, and Dict. Compare them in terms of:
+- Mutability
+- Ordering
+- Duplicates
+- Indexing/Access methods
+- Performance characteristics
+- Use cases for each
+
+Provide practical examples showing when to use each data structure.
 
 ### Question 2: List Slicing
 What will be the output?
